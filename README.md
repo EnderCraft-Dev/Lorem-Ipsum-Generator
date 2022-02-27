@@ -14,5 +14,5 @@ Text will generate so many times as you specify on the range.
 ![image](https://user-images.githubusercontent.com/89426850/155895958-46293845-18c4-41da-985b-b03827b4f49a.png)
 
 Download Lorem Ipsum Generator v1 Here:
-https://www.mediafire.com/file/vuuiztf1e6e08k3/Lorem+Ipsum+Generator_Setup.exe/file
+[link](https://link-center.net/227398/lorem-ipsum-generator-v1)
 
