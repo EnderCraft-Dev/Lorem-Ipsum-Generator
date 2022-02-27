@@ -13,6 +13,6 @@ Text will generate so many times as you specify on the range.
 
 ![image](https://user-images.githubusercontent.com/89426850/155895958-46293845-18c4-41da-985b-b03827b4f49a.png)
 
-Download Lorem Ipsum Generator v1 Here:
-[link](https://link-center.net/227398/lorem-ipsum-generator-v1)
+
+[Download Lorem Ipsum Generator v1 Here:](https://link-center.net/227398/lorem-ipsum-generator-v1)
 
